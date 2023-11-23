@@ -10,13 +10,4 @@ data class CarData (
     var carImg: String? = null
 )
 
-//    constructor(carName: String?, carModel: String?,carYear: String?,carColor: String?,carEngine: String?,carNumber: String?,carImg: String?){
-//        this.carName = carName
-//        this.carModel = carModel
-//        this.carYear = carYear
-//        this.carColor = carColor
-//        this.carEngine = carEngine
-//        this.carNumber = carNumber
-//        this.carImg = carImg
-//    }
 
